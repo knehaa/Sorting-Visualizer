@@ -1,3 +1,9 @@
 # Sorting-Visualizer
 
-This is a simple sorting visualizer made by using HTML, CSS, and JavaScript.
+A Web application created using CSS, HTML and JavaScript that visualizes different sorting algorithms. 
+The algorithms implemented int his are:
+Bubble Sort
+Selection Sort
+Insertion Sort
+Quick Sort
+Merge Sort
