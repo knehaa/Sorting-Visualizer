@@ -6,4 +6,6 @@ Bubble Sort <br>
 Selection Sort <br>
 Insertion Sort <br>
 Quick Sort <br>
-Merge Sort <br>
+Merge Sort <br> <br>
+
+live website: https://knehaa.github.io/Sorting-Visualizer/
